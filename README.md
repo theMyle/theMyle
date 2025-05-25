@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Kyle 👨‍💻</h1>
+<h1 align="center">Hola soy (dora) Kyle 👨‍💻</h1>
 
 <div align="center">
   🚀 Passionate developer working on web development, systems programming, emulators, and CLI tools.
