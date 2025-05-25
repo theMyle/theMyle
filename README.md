@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="30" />
   <img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" height="30" />
   <img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30" />
+  <img src="https://img.shields.io/badge/GODOT-3582bb?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" height="30" />
 </p>
 
 <h3 align="center">🌟 EXPERIENCE</h3>
