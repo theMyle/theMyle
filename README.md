@@ -3,7 +3,7 @@
 <div align="center">
   🚀 Passionate developer working on web, systems, emulators & CLI tools.  
   <br/>
-  <em>“Building cool stuff, one line at a time.”</em>
+  <em>“Building whatever the fuck comes to mind.”</em>
 </div>
 
 <h3 align="center">🛠️ LANGUAGES</h3>
