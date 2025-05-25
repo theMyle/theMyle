@@ -4,7 +4,7 @@
   🚀 Passionate developer working on web development, systems programming, emulators, and CLI tools.
 </div>
 
-<h3 align="center">💻 Tech Stack</h3>
+<h3 align="center">💻 Tools I Use</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
