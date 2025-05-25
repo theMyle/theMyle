@@ -18,8 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
 </div>
 
-<h3 align="center">🌟 Experience</h3>
 
+<h3 align="center">🌟 Experience (A little bit of these stuffs)</h3>
 <p align="center">
   Web Development | Systems Programming | Emulators | CLI Tools
 </p>
