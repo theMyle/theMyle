@@ -36,7 +36,7 @@
 
 <h3 align="center">🌟 EXPERIENCE</h3>
 <blockquote align="center" style="font-style: italic; color: gray;">
-  Web Development | Systems Programming | Emulators | CLI Tools
+  Web Development | Systems Programming | Emulators | CLI Tools | Data Visualization
 </blockquote>
 
 <h3 align="center">🚀 DEMO</h3>
